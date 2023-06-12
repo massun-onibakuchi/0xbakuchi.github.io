@@ -92,9 +92,6 @@ code,
   border-radius: 3px;
 }
 
-/* .hidden-link {
-  text-align: center;
-  font-size: 12px;
-  color: black;
+.hidden-link {
   text-decoration: none;
-} */
+}
